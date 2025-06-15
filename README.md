@@ -21,8 +21,7 @@
 # 简介！
 ## Loxposed<img src="https://github.com/QcxFlora/Loxposed/blob/main/1750004665231.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">是基于lsposed<img src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">开发的新一代免root框架,支持![安卓](https://img.shields.io/badge/-安卓15-informational?logo=Android)使用。
 
-# 提出你的issues！
-## [![issues](https://img.shields.io/badge/提issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
+# 提出你的issues[![issues](https://img.shields.io/badge/提issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
 
 # 注意！
 ## 该版本处于初期开发阶段，对部分模块适配性不强，请各位静候后续版本更新！
