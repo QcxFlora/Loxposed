@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="1750001016267.png">
+<img src="1750004665231.png">
 
 # Loxposed
 ## 新一代免root框架
