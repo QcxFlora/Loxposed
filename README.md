@@ -21,4 +21,4 @@ loxposed是基于lsposed开发的新一代免root框架 是一款 [哔哩哔哩]
 改写了传统免root框架的底层逻辑，更加稳定，强大！
 #
 # 安装                                     
-BVG[![蓝奏云下载](https://img.shields.io/badge/123网盘-下载-informational?logo=123网盘)](https://www.123912.com/s/g8Ufjv-OmMih)
+[![蓝奏云下载](https://img.shields.io/badge/123网盘-下载-informational?logo=123网盘)](https://www.123912.com/s/g8Ufjv-OmMih)
