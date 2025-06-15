@@ -6,10 +6,10 @@
 ## 新一代免root框架
 
 <a href="https://github.com/dotcog" 
-   style="display: inline-flex; align-items: center; background: #555; color: white; border-radius: 4px; padding: 4px 8px; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+   style="display: inline-flex; align-items: center; background: #f0f4f8; color: #24292f; border: 1px solid #d1d9e0; border-radius: 6px; padding: 4px 8px; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <img src="https://avatars.githubusercontent.com/u/193598498?v=4" 
-       style="height: 16px; width: 16px; border-radius: 3px; margin-right: 6px; object-fit: cover;">
-  <span style="line-height: 16px;">原作者主页</span>
+       style="height: 18px; width: 18px; border-radius: 50%; margin-right: 6px; object-fit: cover; border: 1px solid rgba(0,0,0,0.05);">
+  <span style="line-height: 18px; padding-top: 1px;">原作者主页</span>
 </a>
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
 
