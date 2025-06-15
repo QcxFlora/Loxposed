@@ -20,15 +20,11 @@
 BVG (Big Video God) 是一款 [哔哩哔哩](https://www.bilibili.com) 的第三方 `Android`
 应用，使用 `Jetpack Compose` 开发，支持 `Android 5.0+`
 
-# 该版本对于某些低配机型消耗极大，由于技术原因暂时无法优化，若有对此方面的进度则会马上更新
+# 该版本处于初期开发阶段，对部分模块适配性不强，请各位静候后续版本更新！
 
 
 # 特色
-- :bug: 丰富多样的 Bug
-- :children_crossing: 反人类设计
-- :art: 异样审美
-- :disappointed: 巨难用
-- :zap: 卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡
+改写了传统免root框架的底层逻辑，更加稳定，强大！
 #
 # 安装                                     
 BVG[![蓝奏云下载](https://img.shields.io/badge/123网盘-下载-informational?logo=123网盘)](https://www.123912.com/s/g8Ufjv-OmMih)
