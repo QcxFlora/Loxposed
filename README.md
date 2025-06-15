@@ -1,4 +1,10 @@
-<div align="center">
+<div align="center" style="font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+
+<style>
+  body, h1, h2, h3, p, a, span {
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  }
+</style>
 
 <img src="1750004665231.png">
 
@@ -17,7 +23,6 @@
 
 # ***注意！⚠️***
 >## 该版本处于**初期开发阶段**，对部分模块适配性不强，请各位静候后续版本更新！
-
 
 # 特色！🚀
 ## 改写了传统免root框架的底层逻辑，更加稳定，强大！
