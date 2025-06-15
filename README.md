@@ -11,6 +11,7 @@
        style="height: 18px; width: 18px; border-radius: 50%; margin-right: 6px; object-fit: cover; border: 1px solid rgba(0,0,0,0.05);">
   <span style="line-height: 18px; padding-top: 1px;">原作者主页</span>
 </a>
+
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
 
 </div>
