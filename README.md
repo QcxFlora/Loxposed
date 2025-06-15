@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="1750001016267.png" style="border-radius: 24px; margin-top: 32px;"/>
+<img src="1750001016267.png" style="border-radius: 12px; margin-top: 24px;"/>
 
 # Loxposed
 ## 新一代免root框架
