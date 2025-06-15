@@ -6,7 +6,7 @@
 ## 新一代免root框架
 
 <a href="https://github.com/dotcog/Loxposed" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://github.com/QcxFlora/Loxposed/blob/main/1750001016267.png" style="height: 40px; width: 40px; border-radius: 75%; margin-right: 6px; object-fit: cover;">
+  <img src="https://github.com/QcxFlora/Loxposed/blob/main/1750001016267.png" style="height: 25px; width: 25px; border-radius: 75%; margin-right: 6px; object-fit: cover;">
   <span style="color: white; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600;">原项目</span>
 </a>
 <a href="https://github.com/dotcog" style="display: inline-flex; align-items: center; text-decoration: none;">
