@@ -6,7 +6,7 @@
 ## 新一代免root框架
 
 ![原作者主页](https://github.com/dotcog)
-![原作者项目](https://github.com/dotcog/Loxposed)
+<img src="https://github.com/QcxFlora/Loxposed/blob/main/1750004665231.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">![原作者项目](https://github.com/dotcog/Loxposed)
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)  [issues](https://img.shields.io/badge/Issues-informational?logo=issues)]![提issues](https://github.com/dotcog/Loxposed/issues)
 
 </div>
