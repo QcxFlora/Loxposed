@@ -14,9 +14,7 @@
   <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600;">原作者主页</span>
 </a>
 
-[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
-
-[![issues](https://img.shields.io/badge/提issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
+[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)[![issues](https://img.shields.io/badge/提issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
 
 </div>
 
