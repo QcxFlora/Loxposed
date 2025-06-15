@@ -18,8 +18,8 @@
 
 </div>
 
-# 项目简介！
-## Loxposed是基于lsposed开发的新一代免root框架,支持安卓15版本。
+# 简介！
+## Loxposed<img src="https://avatars.githubusercontent.com/u/193598498?v=4" style="height: 18px; width: 18px; border-radius: 50%; margin-right: 6px; object-fit: cover;">是基于lsposed开发的新一代免root框架,支持安卓15版本。
 
 # 注意！
 ## 该版本处于初期开发阶段，对部分模块适配性不强，请各位静候后续版本更新！
