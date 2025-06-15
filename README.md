@@ -2,7 +2,8 @@
 
 <img src="app/src/main/res/drawable/ic_banner.webp" style="border-radius: 24px; margin-top: 32px;"/>
 
-# loxposed
+# l
+Loxposed
 ## 新一代免root框架
 
 
