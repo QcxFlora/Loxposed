@@ -5,7 +5,7 @@
 # Loxposed
 ## 新一代免root框架
 
-[![dotcog原作者主页](https://img.shields.io/badge/github-下载-informational?logo=dotcog)](https://github.com/dotcog)
+[![dotcog原作者主页](https://img.shields.io/badge/作者主页-informational?logo=dotcog)](https://github.com/dotcog)
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
 
 </div>
