@@ -5,7 +5,44 @@
 # Loxposed
 ## 新一代免root框架
 
-[![dotcog原作者主页](https://img.shields.io/badge/原作者-主页-informational?logo=1750001016267.png](https://github.com/dotcog)
+<a href="https://github.com/dotcog" target="_blank" class="custom-badge">
+  <img src="https://avatars.githubusercontent.com/u/193598498?v=4" alt="原作者" class="badge-icon">
+  <span class="badge-text">主页</span>
+</a>
+
+<style>
+.custom-badge {
+  display: inline-flex;
+  align-items: center;
+  background: #555; /* 背景色 */
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  transition: all 0.2s ease;
+}
+
+.custom-badge:hover {
+  background: #666; /* 悬停色 */
+  transform: translateY(-1px);
+}
+
+.badge-icon {
+  height: 16px;
+  width: 16px;
+  border-radius: 3px;
+  margin-right: 6px;
+  object-fit: cover;
+}
+
+.badge-text {
+  line-height: 1;
+}
+</style>
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
 
 </div>
