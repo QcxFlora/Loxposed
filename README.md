@@ -5,9 +5,9 @@
 # Loxposed
 ## 新一代免root框架
 
-<a href="https://https://github.com/dotcog" 
+<a href="https://github.com/dotcog" 
    style="display: inline-flex; align-items: center; background: #555; color: white; border-radius: 4px; padding: 4px 8px; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-  <img src="https://https://avatars.githubusercontent.com/u/193598498?v=4" 
+  <img src="https://avatars.githubusercontent.com/u/193598498?v=4" 
        style="height: 16px; width: 16px; border-radius: 3px; margin-right: 6px; object-fit: cover;">
   <span style="line-height: 16px;">主页</span>
 </a>
