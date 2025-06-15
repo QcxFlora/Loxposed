@@ -5,16 +5,9 @@
 # Loxposed
 ## 新一代免root框架
 
-<a href="https://github.com/dotcog/Loxposed" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://github.com/QcxFlora/Loxposed/blob/main/1750004665231.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600;">原项目</span>
-</a>
-<a href="https://github.com/dotcog" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://avatars.githubusercontent.com/u/193598498?v=4" style="height: 18px; width: 18px; border-radius: 50%; margin-right: 6px; object-fit: cover;">
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600;">原作者主页</span>
-</a>
-
-[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)  [![issues](https://img.shields.io/badge/提issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
+![原作者主页](https://github.com/dotcog)
+![原作者项目](https://github.com/dotcog/Loxposed)
+[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)  [issues](https://img.shields.io/badge/Issues-informational?logo=issues)]![提issues](https://github.com/dotcog/Loxposed/issues)
 
 </div>
 
