@@ -6,7 +6,7 @@
 ## 新一代免root框架
 
 
-[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://www.123912.com/s/g8Ufjv-OmMih)
+[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
 
 </div>
 
@@ -20,4 +20,4 @@ loxposed是基于lsposed开发的新一代免root框架,支持安卓15版本。
 改写了传统免root框架的底层逻辑，更加稳定，强大！
 #
 # 安装                                     
-[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://www.123912.com/s/g8Ufjv-OmMih)
+[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases)
