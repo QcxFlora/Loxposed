@@ -8,7 +8,7 @@
 <img src="https://github.com/QcxFlora/Loxposed/blob/main/icon.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">[原作者项目](https://github.com/dotcog/Loxposed)
 
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases) [ ![issues](https://img.shields.io/badge/提Issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
-
+[![证书](https://img.shields.io/badge/LICENSE-证书-informational?logo=LICENSE)](LICENSE)
 </div>
 
 # 简介！🔧
