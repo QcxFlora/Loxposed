@@ -8,8 +8,8 @@
 <img src="https://github.com/QcxFlora/Loxposed/blob/main/icon.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">[原作者项目](https://github.com/dotcog/Loxposed)
 
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases) [ ![issues](https://img.shields.io/badge/提Issues-informational?logo=issues)](https://github.com/dotcog/Loxposed/issues)
-[![证书](https://img.shields.io/badge/LICENSE-证书-informational?logo=LICENSE)](LICENSE)
-</div>
+
+(https://img.shields.io/github/license/QcxFlora/Loxposed?label=License)](https://choosealicense.com/licenses/GPL-3.0/)
 
 # 简介！🔧
 ## Loxposed<img src="https://github.com/QcxFlora/Loxposed/blob/main/icon.png" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">是基于lsposed<img src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4" style="height: 18px; width: 18px; border-radius: 75%; margin-right: 6px; object-fit: cover;">开发的新一代免root框架,支持![安卓](https://img.shields.io/badge/%E2%80%8B-安卓15-informational?logo=Android)使用。
