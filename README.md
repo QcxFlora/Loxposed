@@ -1,4 +1,4 @@
-<divalign="center">
+<div align="center">
 <img src="icon.png">
 
 # Loxposed
