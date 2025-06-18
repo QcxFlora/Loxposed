@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/QcxFlora/Loxposed/blob/main/icon.png">
+<img src="icon.png">
 
 # Loxposed
 ## 新一代免root框架
